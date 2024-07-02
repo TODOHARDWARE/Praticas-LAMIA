@@ -7,7 +7,7 @@ Desenvolvido por TODOHARDWARE: https://github.com/TODOHARDWARE \
 Apresentado no LAMIA, conheçam-o: https://lamia-edu.com \
 \
 \
-# Atenção \
+# Atenção!
 Antes de rodar este projeto, instale os requerimentos. Use o seguinte comando para isso: \
 pip install -r requirements.txt --quiet \
 \
