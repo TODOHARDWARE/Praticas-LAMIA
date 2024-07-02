@@ -6,7 +6,7 @@ Link do desafio: https://www.kaggle.com/c/cassava-leaf-disease-classification/da
 Desenvolvido por TODOHARDWARE: https://github.com/TODOHARDWARE \
 Apresentado no LAMIA, conheçam-o: https://lamia-edu.com \
 \
-\
+
 # Atenção!
 Antes de rodar este projeto, instale os requerimentos. Use o seguinte comando para isso: \
 pip install -r requirements.txt --quiet \
