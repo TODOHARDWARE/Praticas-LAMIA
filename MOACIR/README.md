@@ -19,16 +19,16 @@ https://www.kaggle.com/datasets/todohw/cassava-leaves-dataset-4-in-1-merged/data
 \
 O modelo e seus pesos pré-treinados para carregar no LOAD.ipynb podem ser baixados em:
 https://drive.google.com/drive/folders/1oQY1xOU6g8rUoVJ-78CJ8I6Z61jcu_jf?usp=drive_link \
-\
+
 # Referências:
 Cassava Leaf Disease Classification; Identify the type of disease present on a Cassava Leaf image \
 https://www.kaggle.com/c/cassava-leaf-disease-classification/data \
 \
 Pytorch Complete Tutorial | Cassava Leaf Disease Detection | Python \
-https://www.youtube.com/watch?v=R7fKjr4gtSc\
+https://www.youtube.com/watch?v=R7fKjr4gtSc \
 \
 Cassava Leaf Disease Detection - Image Classification \
-https://github.com/aswintechguy/Deep-Learning-Projects/tree/main/Cassava%20Leaf%20Disease%20Detection%20-%20Pytorch%20Image%20Classification \
+https://github.com/aswintechguy/Deep-Learning-Projects/tree/main/Cassava%20Leaf%20Disease%20Detection%20-%20Pytorch%20Image%20Classification 
 
 
 
