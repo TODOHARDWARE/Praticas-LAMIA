@@ -13,5 +13,9 @@ pip install -r requirements.txt --quiet \
 \
 A versão do PyTorch usada neste projeto é a acelerada por GPU, neste caso ROCm que são para GPUs AMD \
 Se você usa uma GPU Nvidia, desinstale o PyTorch instalado pelo requirements e instale a versão para CUDA \
+\
+O dataset usado neste projeto pode ser baixado em: \
+https://www.kaggle.com/datasets/todohw/cassava-leaves-dataset-4-in-1-merged/data
+
 
 
