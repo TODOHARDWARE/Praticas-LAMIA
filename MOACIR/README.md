@@ -10,7 +10,6 @@ Apresentado no LAMIA, conheçam-o: https://lamia-edu.com
 Antes de rodar este projeto, instale os requerimentos. Use o seguinte comando para isso: \
 pip install -r requirements.txt --quiet \
 \
-\
 A versão do PyTorch usada neste projeto é a acelerada por GPU, neste caso ROCm que são para GPUs AMD \
 Se você usa uma GPU Nvidia, desinstale o PyTorch instalado pelo requirements e instale a versão para CUDA \
 \
